@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=putchom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=putchom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I have expertise in wide areas such as online communication strategies, UI design, UX engineering. My educational background of Sociology and experiences of various types of research help building my career. Besides leading teams on work, I play around new technologies like VR, Ethereum and Rust programing language. A Tacos enthusiast 🌮
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=putchom)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=putchom)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **putchom/putchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
