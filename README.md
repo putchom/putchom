@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have expertise in wide areas such as online communication strategies, UI design, UX engineering. Besides leading teams on work, I play around new technologies like VR, Ethereum and Rust programing language. A Tacos enthusiast 🌮
+I have expertise in wide areas such as online communication strategies, UI design, UX engineering. Besides leading teams on work, I play around new technologies like VR and Rust programing language. A Tacos enthusiast 🌮
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putchom&layout=compact&show_icons=true&theme=onedark" />
