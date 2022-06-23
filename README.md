@@ -2,8 +2,6 @@
 
 I have expertise in wide areas such as online communication strategies, UI design, UX engineering. My educational background of Sociology and experiences of various types of research help building my career. Besides leading teams on work, I play around new technologies like VR, Ethereum and Rust programing language. A Tacos enthusiast 🌮
 
-![](https://komarev.com/ghpvc/?username=putchom&color=1d00ff)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putchom&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=putchom&theme=onedark&show_icons=ture" />
